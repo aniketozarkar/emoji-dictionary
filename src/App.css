@@ -1,8 +1,18 @@
-.App {
-  text-align: center;
+body {
+  background-image: url("jiroe-b9kh72kOcdM-unsplash.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
-input {
+.App {
+  text-align: center;
+  color: white;
+  height: 900px;
+}
+
+.emojiInput {
   padding: 1rem;
-  width: 80%;
+  width: 60%;
+  border-radius: 1rem;
 }
